@@ -320,7 +320,7 @@ marquee {
     display: inline-block;
 }
 .podskazka2:hover {
-    background-image: url("image/podskazka333.png");
+    background-image: url("../image/podskazka333.png");
 }
 
 .page_four {
