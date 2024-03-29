@@ -1,0 +1,416 @@
+@font-face {
+    font-family: "BebasNeue";
+    src: url("../font/BebasNeue\ Bold.otf");
+}
+body {
+    background-color: #005DDE;
+}
+
+.page_one {
+    width: 1440px;
+    height: 1128px;
+    position: relative;
+}
+.dishim {
+    width: 1440px;
+    height: 810px;
+}
+.name {
+    font-family: "BebasNeue";
+    font-size: 60px;
+    position: absolute;
+    top: 146px;
+    left: 579px;
+    color: #F3F8FF;
+}
+.podskazka01 {
+    font-family: "Arial";
+    size: 18px;
+    position: absolute;
+    top: 244px;
+    left: 612px;
+    color: #F3F8FF;
+}
+.podskazka02 {
+    font-family: "arial";
+    size: 18px;
+    position: absolute;
+    top: 265px;
+    left: 750px;
+    color: #F3F8FF;
+}
+.p1r1 {
+    position: relative;
+    top: -205px;
+}
+.p1r2 {
+    position: relative;
+    top: -8px;
+}
+.p1r3 {
+    position: relative;
+    top: 18px;
+}
+.p1r4 {
+    position: relative;
+    top: 350px;
+}
+.p1r5 {
+    position: relative;
+    top: 564px;
+}
+.p1r6 {
+    position: r;
+    top: 687px;
+}
+marquee {
+    display: inline-block;
+    height: 250px;
+    width: 1424px;
+}
+.p1i1 {
+    position: absolute;
+    top: 73px;
+    left: -7px;
+}
+.p1i2 {
+    position: absolute;
+    top: 163px;
+    left: 850px;
+}
+.p1i3 {
+    position: absolute;
+    top: 480px;
+    left: 337px;
+}
+.footer1 {
+    font-family: "Arial";
+    font-size: 25px;
+    position: absolute;
+    top: 1082px;
+    left: 25px;
+    color: #F3F8FF;
+}
+.footer2 {
+    font-family: "Arial";
+    font-size: 25px;
+    position: absolute;
+    top: 1082px;
+    left: 640px;
+    color: #F3F8FF;
+}
+.footer3 {
+    font-family: "Arial";
+    font-size: 25px;
+    position: absolute;
+    top: 1082px;
+    left: 1092px;
+    color: #F3F8FF;
+}
+.fon0 {
+    width: 1440px;
+    height: 1128px;
+}
+
+.page_two {
+    width: 1440px;
+    height: 810px;
+    position: relative;
+}
+.podskazka1 {
+    position: absolute;
+    top: 12px;
+    left: 11px;
+    width: 196px;
+    height: 71px;
+    background: url("/Users/daryapivovarova/программирование/3 модуль/image/подсказка.png") no-repeat;
+    display: inline-block;
+}
+.podskazka1:hover {
+    background-image: url("/Users/daryapivovarova/программирование/3 модуль/image/podskazka222.png");
+}
+.menu_p1 {
+    position: absolute;
+    left: 1334px;
+    top: 2px;
+}
+.menu_p2 {
+    position: absolute;
+    left: 1332px;
+    top: 162px;
+}
+.menu_p3 {
+    position: absolute;
+    left: 1332px;
+    top: 252px;
+}
+.menu_p4 {
+    position: absolute;
+    left: 1333px;
+    top: 71px;
+}
+.name2-1 {
+    position: absolute;
+    left: 510px;
+    top: 57px;
+    font-family: "BebasNeue";
+    font-size: 60px;
+    color: #F3F8FF;
+}
+.name2-2 {
+    position: absolute;
+    left: 723px;
+    top: 94px;
+    font-family: "BebasNeue";
+    font-size: 60px;
+    color: #F3F8FF;
+}
+.dishim {
+    position: absolute;
+}
+
+.page_three {
+    width: 1440px;
+    height: 810px;
+    position: relative;
+}
+.i1{
+    position: absolute;
+    top: 287px;
+    width: 364px;
+    height: 215px;
+    background: url("/Users/daryapivovarova/программирование/3 модуль/image/01oblako.png") no-repeat;
+    /* display: inline-block; */
+}
+.i1:hover {
+    background: url("/Users/daryapivovarova/программирование/3 модуль/image/1oblako.png") no-repeat;
+}
+.i2{
+    position: absolute;
+    top: 524px;
+    width: 397px;
+    height: 303px;
+    background: url("/Users/daryapivovarova/программирование/3 модуль/image/02oblako.png") no-repeat;
+}
+.i2:hover {
+    background: url("/Users/daryapivovarova/программирование/3 модуль/image/2oblako.png") no-repeat;
+}
+.i3{
+    position: absolute;
+    left: 240px;;
+    top: 238px;
+    width: 268px;
+    height: 174px;
+    background: url("/Users/daryapivovarova/программирование/3 модуль/image/03oblako.png") no-repeat;
+}
+.i3:hover {
+    background: url("/Users/daryapivovarova/программирование/3 модуль/image/3oblako.png") no-repeat;
+}
+.i4{
+    position: absolute;
+    left: 134px;
+    top: 405px;
+    width: 444px;
+    height: 248px;
+    background: url("/Users/daryapivovarova/программирование/3 модуль/image/04oblako.png") no-repeat;
+}
+.i4:hover {
+    background: url("/Users/daryapivovarova/программирование/3 модуль/image/4oblako.png") no-repeat;
+}
+.i5{
+    position: absolute;
+    left: 240px;
+    top: 639px;
+    width: 364px;
+    height: 219px;
+    background: url("/Users/daryapivovarova/программирование/3 модуль/image/05oblako.png") no-repeat;
+}
+.i5:hover {
+    background: url("/Users/daryapivovarova/программирование/3 модуль/image/5oblako.png") no-repeat;
+}
+.i6{
+    position: absolute;
+    left: 518px;
+    top: 268px;
+    width: 375px;
+    height: 286px;
+    background: url("/Users/daryapivovarova/программирование/3 модуль/image/06oblako.png") no-repeat;
+}
+.i6:hover {
+    background: url("/Users/daryapivovarova/программирование/3 модуль/image/6oblako.png") no-repeat;
+}
+.i7{
+    position: absolute;
+    left: 594px;
+    top: 560px;
+    width: 361px;
+    height: 234px;
+    background: url("/Users/daryapivovarova/программирование/3 модуль/image/07oblako.png") no-repeat;
+}
+.i7:hover {
+    background: url("/Users/daryapivovarova/программирование/3 модуль/image/7oblako.png") no-repeat;
+}
+.i8{
+    position: absolute;
+    left: 813px;
+    top: 405px;
+    width: 364px;
+    height: 219px;
+    background: url("/Users/daryapivovarova/программирование/3 модуль/image/08oblako.png") no-repeat;
+}
+.i8:hover {
+    background: url("/Users/daryapivovarova/программирование/3 модуль/image/8oblako.png") no-repeat;
+}
+.i9{
+    position: absolute;
+    left: 972px;
+    top: 612px;
+    width: 364px;
+    height: 215px;
+    background: url("/Users/daryapivovarova/программирование/3 модуль/image/09oblako.png") no-repeat;
+}
+.i9:hover {
+    background: url("/Users/daryapivovarova/программирование/3 модуль/image/9oblako.png") no-repeat;
+}
+.i10{
+    position: absolute;
+    left: 1133px;
+    top: 260px;
+    width: 370px;
+    height: 242px;
+    background: url("/Users/daryapivovarova/программирование/3 модуль/image/010oblako.png") no-repeat;
+}
+.i10:hover {
+    background: url("/Users/daryapivovarova/программирование/3 модуль/image/10oblako.png") no-repeat;
+}
+.i11{
+    position: absolute;
+    left: 1227px;
+    top: 472px;
+    width: 426px;
+    height: 238px;
+    background: url("/Users/daryapivovarova/программирование/3 модуль/image/011oblako.png") no-repeat;
+}
+.i11:hover {
+    background: url("/Users/daryapivovarova/программирование/3 модуль/image/11oblako.png") no-repeat;
+}
+.name3-1 {
+    position: absolute;
+    left: 449px;
+    top: 57px;
+    font-family: "BebasNeue";
+    font-size: 60px;
+    color: #F3F8FF;
+}
+.name3-2 {
+    position: absolute;
+    left: 661px;
+    top: 94px;
+    font-family: "BebasNeue";
+    font-size: 60px;
+    color: #F3F8FF;
+}
+.podskazka2 {
+    position: absolute;
+    top: 12px;
+    left: 11px;
+    width: 196px;
+    height: 71px;
+    background: url("/Users/daryapivovarova/программирование/3 модуль/image/подсказка.png") no-repeat;
+    display: inline-block;
+}
+.podskazka2:hover {
+    background-image: url("/Users/daryapivovarova/программирование/3 модуль/image/podskazka333.png");
+}
+
+.page_four {
+    width: 1440px;
+    height: 810px;
+    position: relative;
+}
+.name4-1 {
+    position: absolute;
+    left: 511px;
+    top: 57px;
+    font-family: "BebasNeue";
+    font-size: 60px;
+    color: #F3F8FF;
+}
+.name4-2 {
+    position: absolute;
+    left: 769px;
+    top: 94px;
+    font-family: "BebasNeue";
+    font-size: 60px;
+    color: #F3F8FF;
+}
+.podskazka3 {
+    position: absolute;
+    top: 12px;
+    left: 11px;
+    width: 196px;
+    height: 71px;
+    background: url("/Users/daryapivovarova/программирование/3 модуль/image/подсказка.png") no-repeat;
+    display: inline-block;
+}
+.podskazka3:hover {
+    background-image: url("/Users/daryapivovarova/программирование/3 модуль/image/podskazka444.png");
+}
+.oblako1 {
+    position: absolute;
+    top: 233px;
+    left: 522px;
+    width: 397px;
+    height: 400px;
+    background: url("/Users/daryapivovarova/программирование/3 модуль/image/3-1-1.png") no-repeat;
+    display: inline-block;
+}
+.oblako1:hover {
+    background-image: url("/Users/daryapivovarova/программирование/3 модуль/image/3-1-2.png");
+}
+.oblako2 {
+    position: absolute;
+    top: 233px;
+    left: 522px;
+    width: 397px;
+    height: 400px;
+    background: url("/Users/daryapivovarova/программирование/3 модуль/image/3-2-1.png") no-repeat;
+    display: inline-block;
+}
+.oblako2:hover {
+    background-image: url("/Users/daryapivovarova/программирование/3 модуль/image/3-2-2.png");
+}
+.oblako3 {
+    position: absolute;
+    top: 233px;
+    left: 522px;
+    width: 397px;
+    height: 400px;
+    background: url("/Users/daryapivovarova/программирование/3 модуль/image/3-3-1.png") no-repeat;
+    display: inline-block;
+}
+.oblako3:hover {
+    background-image: url("/Users/daryapivovarova/программирование/3 модуль/image/3-3-2.png");
+}
+.oblako4 {
+    position: absolute;
+    top: 233px;
+    left: 522px;
+    width: 397px;
+    height: 400px;
+    background: url("/Users/daryapivovarova/программирование/3 модуль/image/3-4-1.png") no-repeat;
+    display: inline-block;
+}
+.oblako4:hover {
+    background-image: url("/Users/daryapivovarova/программирование/3 модуль/image/3-4-2.png");
+}
+.strelka1 {
+    position: absolute;
+    top: 357px;
+    left: 326px;
+}
+.strelka2 {
+    position: absolute;
+    top: 357px;
+    left: 1015px;
+}
