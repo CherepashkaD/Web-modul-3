@@ -123,7 +123,7 @@ marquee {
     left: 11px;
     width: 196px;
     height: 71px;
-    background: url("image/подсказка.png") no-repeat;
+    background: url("../image/подсказка.png") no-repeat;
     display: inline-block;
 }
 .podskazka1:hover {
