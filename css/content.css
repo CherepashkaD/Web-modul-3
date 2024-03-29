@@ -123,11 +123,11 @@ marquee {
     left: 11px;
     width: 196px;
     height: 71px;
-    background: url("/Users/daryapivovarova/программирование/3 модуль/image/подсказка.png") no-repeat;
+    background: url("image/подсказка.png") no-repeat;
     display: inline-block;
 }
 .podskazka1:hover {
-    background-image: url("/Users/daryapivovarova/программирование/3 модуль/image/podskazka222.png");
+    background-image: url("image/podskazka222.png");
 }
 .menu_p1 {
     position: absolute;
@@ -179,21 +179,21 @@ marquee {
     top: 287px;
     width: 364px;
     height: 215px;
-    background: url("/Users/daryapivovarova/программирование/3 модуль/image/01oblako.png") no-repeat;
+    background: url("image/01oblako.png") no-repeat;
     /* display: inline-block; */
 }
 .i1:hover {
-    background: url("/Users/daryapivovarova/программирование/3 модуль/image/1oblako.png") no-repeat;
+    background: url("image/1oblako.png") no-repeat;
 }
 .i2{
     position: absolute;
     top: 524px;
     width: 397px;
     height: 303px;
-    background: url("/Users/daryapivovarova/программирование/3 модуль/image/02oblako.png") no-repeat;
+    background: url("image/02oblako.png") no-repeat;
 }
 .i2:hover {
-    background: url("/Users/daryapivovarova/программирование/3 модуль/image/2oblako.png") no-repeat;
+    background: url("image/2oblako.png") no-repeat;
 }
 .i3{
     position: absolute;
@@ -201,10 +201,10 @@ marquee {
     top: 238px;
     width: 268px;
     height: 174px;
-    background: url("/Users/daryapivovarova/программирование/3 модуль/image/03oblako.png") no-repeat;
+    background: url("image/03oblako.png") no-repeat;
 }
 .i3:hover {
-    background: url("/Users/daryapivovarova/программирование/3 модуль/image/3oblako.png") no-repeat;
+    background: url("image/3oblako.png") no-repeat;
 }
 .i4{
     position: absolute;
@@ -212,10 +212,10 @@ marquee {
     top: 405px;
     width: 444px;
     height: 248px;
-    background: url("/Users/daryapivovarova/программирование/3 модуль/image/04oblako.png") no-repeat;
+    background: url("image/04oblako.png") no-repeat;
 }
 .i4:hover {
-    background: url("/Users/daryapivovarova/программирование/3 модуль/image/4oblako.png") no-repeat;
+    background: url("image/4oblako.png") no-repeat;
 }
 .i5{
     position: absolute;
@@ -223,10 +223,10 @@ marquee {
     top: 639px;
     width: 364px;
     height: 219px;
-    background: url("/Users/daryapivovarova/программирование/3 модуль/image/05oblako.png") no-repeat;
+    background: url("image/05oblako.png") no-repeat;
 }
 .i5:hover {
-    background: url("/Users/daryapivovarova/программирование/3 модуль/image/5oblako.png") no-repeat;
+    background: url("image/5oblako.png") no-repeat;
 }
 .i6{
     position: absolute;
@@ -234,10 +234,10 @@ marquee {
     top: 268px;
     width: 375px;
     height: 286px;
-    background: url("/Users/daryapivovarova/программирование/3 модуль/image/06oblako.png") no-repeat;
+    background: url("image/06oblako.png") no-repeat;
 }
 .i6:hover {
-    background: url("/Users/daryapivovarova/программирование/3 модуль/image/6oblako.png") no-repeat;
+    background: url("image/6oblako.png") no-repeat;
 }
 .i7{
     position: absolute;
@@ -245,10 +245,10 @@ marquee {
     top: 560px;
     width: 361px;
     height: 234px;
-    background: url("/Users/daryapivovarova/программирование/3 модуль/image/07oblako.png") no-repeat;
+    background: url("image/07oblako.png") no-repeat;
 }
 .i7:hover {
-    background: url("/Users/daryapivovarova/программирование/3 модуль/image/7oblako.png") no-repeat;
+    background: url("image/7oblako.png") no-repeat;
 }
 .i8{
     position: absolute;
@@ -256,10 +256,10 @@ marquee {
     top: 405px;
     width: 364px;
     height: 219px;
-    background: url("/Users/daryapivovarova/программирование/3 модуль/image/08oblako.png") no-repeat;
+    background: url("image/08oblako.png") no-repeat;
 }
 .i8:hover {
-    background: url("/Users/daryapivovarova/программирование/3 модуль/image/8oblako.png") no-repeat;
+    background: url("image/8oblako.png") no-repeat;
 }
 .i9{
     position: absolute;
@@ -267,10 +267,10 @@ marquee {
     top: 612px;
     width: 364px;
     height: 215px;
-    background: url("/Users/daryapivovarova/программирование/3 модуль/image/09oblako.png") no-repeat;
+    background: url("image/09oblako.png") no-repeat;
 }
 .i9:hover {
-    background: url("/Users/daryapivovarova/программирование/3 модуль/image/9oblako.png") no-repeat;
+    background: url("image/9oblako.png") no-repeat;
 }
 .i10{
     position: absolute;
@@ -278,10 +278,10 @@ marquee {
     top: 260px;
     width: 370px;
     height: 242px;
-    background: url("/Users/daryapivovarova/программирование/3 модуль/image/010oblako.png") no-repeat;
+    background: url("image/010oblako.png") no-repeat;
 }
 .i10:hover {
-    background: url("/Users/daryapivovarova/программирование/3 модуль/image/10oblako.png") no-repeat;
+    background: url("image/10oblako.png") no-repeat;
 }
 .i11{
     position: absolute;
@@ -289,10 +289,10 @@ marquee {
     top: 472px;
     width: 426px;
     height: 238px;
-    background: url("/Users/daryapivovarova/программирование/3 модуль/image/011oblako.png") no-repeat;
+    background: url("image/011oblako.png") no-repeat;
 }
 .i11:hover {
-    background: url("/Users/daryapivovarova/программирование/3 модуль/image/11oblako.png") no-repeat;
+    background: url("image/11oblako.png") no-repeat;
 }
 .name3-1 {
     position: absolute;
@@ -316,11 +316,11 @@ marquee {
     left: 11px;
     width: 196px;
     height: 71px;
-    background: url("/Users/daryapivovarova/программирование/3 модуль/image/подсказка.png") no-repeat;
+    background: url("image/подсказка.png") no-repeat;
     display: inline-block;
 }
 .podskazka2:hover {
-    background-image: url("/Users/daryapivovarova/программирование/3 модуль/image/podskazka333.png");
+    background-image: url("image/podskazka333.png");
 }
 
 .page_four {
@@ -350,11 +350,11 @@ marquee {
     left: 11px;
     width: 196px;
     height: 71px;
-    background: url("/Users/daryapivovarova/программирование/3 модуль/image/подсказка.png") no-repeat;
+    background: url("image/подсказка.png") no-repeat;
     display: inline-block;
 }
 .podskazka3:hover {
-    background-image: url("/Users/daryapivovarova/программирование/3 модуль/image/podskazka444.png");
+    background-image: url("image/podskazka444.png");
 }
 .oblako1 {
     position: absolute;
@@ -362,11 +362,11 @@ marquee {
     left: 522px;
     width: 397px;
     height: 400px;
-    background: url("/Users/daryapivovarova/программирование/3 модуль/image/3-1-1.png") no-repeat;
+    background: url("image/3-1-1.png") no-repeat;
     display: inline-block;
 }
 .oblako1:hover {
-    background-image: url("/Users/daryapivovarova/программирование/3 модуль/image/3-1-2.png");
+    background-image: url("image/3-1-2.png");
 }
 .oblako2 {
     position: absolute;
@@ -374,11 +374,11 @@ marquee {
     left: 522px;
     width: 397px;
     height: 400px;
-    background: url("/Users/daryapivovarova/программирование/3 модуль/image/3-2-1.png") no-repeat;
+    background: url("image/3-2-1.png") no-repeat;
     display: inline-block;
 }
 .oblako2:hover {
-    background-image: url("/Users/daryapivovarova/программирование/3 модуль/image/3-2-2.png");
+    background-image: url("image/3-2-2.png");
 }
 .oblako3 {
     position: absolute;
@@ -386,11 +386,11 @@ marquee {
     left: 522px;
     width: 397px;
     height: 400px;
-    background: url("/Users/daryapivovarova/программирование/3 модуль/image/3-3-1.png") no-repeat;
+    background: url("image/3-3-1.png") no-repeat;
     display: inline-block;
 }
 .oblako3:hover {
-    background-image: url("/Users/daryapivovarova/программирование/3 модуль/image/3-3-2.png");
+    background-image: url("image/3-3-2.png");
 }
 .oblako4 {
     position: absolute;
@@ -398,11 +398,11 @@ marquee {
     left: 522px;
     width: 397px;
     height: 400px;
-    background: url("/Users/daryapivovarova/программирование/3 модуль/image/3-4-1.png") no-repeat;
+    background: url("image/3-4-1.png") no-repeat;
     display: inline-block;
 }
 .oblako4:hover {
-    background-image: url("/Users/daryapivovarova/программирование/3 модуль/image/3-4-2.png");
+    background-image: url("image/3-4-2.png");
 }
 .strelka1 {
     position: absolute;
